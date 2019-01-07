@@ -2,11 +2,11 @@
    * Lesson 1.1 - Introduction to credit risk
      * Learning objective: Understand credit risk and the benefits of a model based approach to tackle it
    * Lesson 1.2 - Introduction to Python ecosystem for data analysis
-     * Learning objective: Learner will import data in and out of python and perform basic checks
+     * Learning objective: Learner will import data in and out of python and perform basic data checks
    * Lesson 1.3 - Exploratory data analysis
-     * Learning objective: Learner will build an understanding of the data through graphs
+     * Learning objective: Learner will build an understanding of the data through visualization
    * Lesson 1.4 - Preparing data for modeling
-     * Learning objective: Learner will develop a pandas dataframe for subsequent modeling tasks
+     * Learning objective: Learner will create a cleaned pandas dataframe for subsequent modeling tasks
 ## Chapter 2 - Logistic regression approach to credit risk modeling
    * Lesson 2.1 - Introduction to logistic regression modeling
      * Learning objective: Learner will understand how to apply logistic regression to credit risk
